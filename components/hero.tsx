@@ -48,7 +48,7 @@ export default function Hero() {
       </h2>
       
       <div className={cn(styleUtils.appear, styleUtils['appear-fourth'], styles.info)}>
-        <p>Insert upcoming events here</p>
+        <p>Equity and Wellbeing</p>
         <div className={styles['description-separator']} />
        
       </div>
